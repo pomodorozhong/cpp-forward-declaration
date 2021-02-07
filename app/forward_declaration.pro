@@ -11,6 +11,6 @@ SOURCES +=     ../src/Area/Area.cpp
 INCLUDEPATH += ../src/Square/
 
 INCLUDEPATH += ../src/Circle/
-SOURCES +=     ../src/Circle/Circle.cpp
+#SOURCES +=     ../src/Circle/Circle.cpp
 
-INCLUDEPATH += ../src/OtherDeps/
+#INCLUDEPATH += ../src/OtherDeps/
